@@ -33,6 +33,8 @@
 
 - [Three-Day No-Meeting Schedule for Engineers](https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567) - by Pinterest Engineering. Takeaway: "Obviously there are trade-offs when making a change like this. However, we [at Pinterest] feel that three focused days with two days of meetings is better than scattered meetings throughout the week. The survey results also indicate that the majority of engineers share that sentiment."
 
+- [Traits you'll find in good managers](https://www.oreilly.com/ideas/traits-youll-find-in-good-managers) - by Ken Kousen. Takeaway: As managers we are in a number of meetings that those under us are not. This helps them work without distraction, but think about what parts of those meetings you should communicate to keep them in the loop and make them more effective.
+
 - [What I Hear When You Tell Me Your Company Doesn’t Do Meetings](https://mfbt.ca/what-i-hear-when-you-tell-me-your-company-doesnt-do-meetings-dfbb57a038d6) - by Johnathan Nightingale. Takeaway: "When you tell me your company doesn’t do meetings, this is what I hear[:] You don’t understand the privilege of executive context ... you also undervalue narrative and alignment [and] ou don’t know how to run an effective meeting." Four questions to ask when planning a meeting: "Who is running this meeting?; What is the output of this meeting?; Who are the right people to produce that output?; How are we going to get to that output?"
 
 ### Time Management
